@@ -1,2 +1,2 @@
 # leet_code
-A repository to track my LeetCode solved problems. 
+My LeetCode source code!
